@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rana Muskan</h1>
-<h3 align="center">A passionate Software developer</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theranamuskan" alt="theranamuskan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/theranamuskan" target="blank"><img src="https://img.shields.io/twitter/follow/theranamuskan?logo=twitter&style=for-the-badge" alt="theranamuskan" /></a> </p>
@@ -13,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/theranamuskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theranamuskan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theranamuskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theranamuskan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/theranamuskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="theranamuskan" height="30" width="40" /></a>
 <a href="https://fb.com/theranamuskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theranamuskan" height="30" width="40" /></a>
 <a href="https://instagram.com/theranamuskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theranamuskan" height="30" width="40" /></a>
 <a href="https://medium.com/theranamuskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="theranamuskan" height="30" width="40" /></a>
